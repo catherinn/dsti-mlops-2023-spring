@@ -153,6 +153,7 @@ Examples:
 
 ## Naming
 PEP8
+Flake8 - tool to check your code agains pep8 styleguide
 
 The company is responsible to define a set of naming rules to ensure the integrity and the coherence of the system. The purpose is to guaranty to business and technical users the comprehension of names while enforcing coherent conventions, structures and names.
 
