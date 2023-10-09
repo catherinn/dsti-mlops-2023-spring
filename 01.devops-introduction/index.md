@@ -152,6 +152,7 @@ Examples:
 [Read more about SemVer](https://semver.org/)
 
 ## Naming
+PEP8
 
 The company is responsible to define a set of naming rules to ensure the integrity and the coherence of the system. The purpose is to guaranty to business and technical users the comprehension of names while enforcing coherent conventions, structures and names.
 
